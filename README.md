@@ -1,10 +1,10 @@
 # 💫 Hi 👋, I'm Shubham Gaikwad
-**A passionate Mern Stack Developer || AIML Engineer **
+**A passionate Mern Stack Developer || GENAI Engineer **
 
 Email Me 👉 ✉️ **gaikwadshubham62173@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
 - 🔭 **I’m currently working on:** Hybrid Post-Quantum Cryptographic Wallet Management System
-- 🌱 **I’m currently learning:** AIML and Advanced backend
+- 🌱 **I’m currently learning:** GENAI and Advanced backend
 - 👯 **I’m looking to collaborate on:** MERN STACK project
 - 🤔 **I’m looking for help with:** MERN stack 
 - 💬 **Ask me about:** Collaboration, Tech Support
